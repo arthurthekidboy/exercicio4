@@ -1,0 +1,22 @@
+h2 {
+    color: blue;
+    margin-left: 45vw;
+    font-size:xx-large;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+input[type=submit] {
+    width: 30vw;
+    height: 15vh;
+    background-color: blue;
+    color: black;
+    text-align:center;
+    margin-left: 30vw;
+    margin-top: 5vh;
+    border:none;
+
+}
